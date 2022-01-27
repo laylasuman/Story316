@@ -20,28 +20,29 @@ BMW - No traslation. BMW is the name of a luxury vehicles company.
 
 Biergarten - Beer garden
 
-Ratskeller - 
+Ratskeller - Basement Restaurant/Tavern
 
-Dirndel - 
+Dirndel - a german type of dress
 
-Lederhose - 
+Lederhose - Leather Pants
 
-Schloss - 
+Schloss - Lock
 
-wettbewerbsfaehig - 
+wettbewerbsfaehig - Competitive
 
-Mehlhase - 
+Mehlhase - Mehlhase (Name)
 
-Gebaeck - 
+Gebaeck - Pastries
 
-Baeckerei - 
+Baeckerei - Bakery
 
-Hund - 
+Hund - Dog
 
 DÃ¶ner - 
 
-Apfelkuchen - 
+Apfelkuchen - Apple Cake
 
-Schloss - 
+Schloss - Castle
 
-Eltz - # Story316
+Eltz - a German noble family (Name)
+# Story316
