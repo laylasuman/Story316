@@ -2,7 +2,7 @@ Broc Baney -
 
 Hashim Almuallem - 
 
-Kevin Nguyen -
+Kevin Nguyen - https://github.com/Nellende/SER316_spritzkuchen_story/pull/5
 
 Layla Suman - https://github.com/emilyhalva/Icebreaker_eirerkuchen/pull/9
 
